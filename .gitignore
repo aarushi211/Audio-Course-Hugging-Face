@@ -5,3 +5,4 @@
 .virtual_documents/
 *.virtual_documents
 */.virtual_documents/
+distilhubert-finetuned-gtzan
